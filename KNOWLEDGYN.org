@@ -1,0 +1,5 @@
+#+TITLE: KNOWLEDGYN -- NOTAS 
+
+* TESIS
+** De acuerdo con [[http://en.wikipedia.org/wiki/Nicholas_Negroponte][Nicholas Negroponte]] (ver [[http://www.ted.com/talks/nicholas_negroponte_a_30_year_history_of_the_future][charla TED]]) en el futuro (30 años?) vamos a ingerir conocimiento en píldoras
+* NOTAS
