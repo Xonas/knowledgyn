@@ -1,4 +1,0 @@
-knowledgyn
-==========
-
-Test de texto
