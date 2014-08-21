@@ -110,3 +110,33 @@
 ** [[www.scientificamerican.com/article/what-do-great-musicians-have-in-common-dna/?&WT.mc_id%3DSA_WR_20140806][What Do Great Musicians Have in Common? DNA]]
 ** Sería interesante leer World War Z, que escuché que tiene una estructura interesante
 ** explorar KW como vacuna
+** [[http://www.artificialbrains.com/darpa-synapse-program][DARPA SyNAPSE Program]]
+** La poshistoria
+
+Al final de nuestra primera charla, Rodrigo habló de las proyecciones que le están volando la cabeza. La traducción en tiempo real, los taxis no tripulados de Google, el reemplazo de trabajadores manuales por robots. Entonces se despidió confesando su fantasía distópica, una guerra civil entre los que tienen el conocimiento y los que se quedaron fuera del sistema. Ahora dice: 
+
+RODRIGO: Cuando se democratiza, el avance tecnológico permite el acceso de cada vez más personas a las mismas herramientas. Con tecnología niveladora, empiezan a valer más el conocimiento, las patentes y los inventos que la máquina. Vale el archivo, no importa dónde se fabrica. Importa si te lo mando o no, si te lo cobro o no, si es abierto o cerrado. Lo que diferencia a una persona de otra, a un país de otro, es qué pueden hacer con la máquina, no la máquina en sí. 
+
+Una mano salvadora, una pistola y una reflexión aguda. Con todas sus contradicciones, Rodrigo está hablando de la sociedad posindustrial: era de la información, creatividad como materia prima. Atomización, trabajo en casa y fábricas en crisis. 
+
+"Cuando era chico, mis abuelos hablaban de sus objetos de acuerdo con el origen: el paraguas de Italia, el mate de Misiones", recuerda Juan Pablo Ringelheim, docente de Ciencias Sociales en la Universidad de Buenos Aires. Los objetos tenían -todavía tienen- una historia: había manos obreras, procesos distributivos, una distancia que se debía salvar. "Si las impresoras 3D se masifican y cada uno empieza a fabricar lo suyo, se suprime el recorrido previo", explica. 
+
+Lo que el filósofo Peter Sloterdijk llama poshistoria: un presente continuo de etapas invisibles, donde los objetos aparecen de la galera de un mago. No deja de ser un problema político -¿cómo intervenir entonces sobre precios y salarios?- y filosófico: la pregunta más básica -¿de dónde vienen las cosas?- nos lleva a la incertidumbre. Una sociedad de impulsos que no controla y preguntas que no puede cerrar. 
+
+Mientras tanto, en una esquina de Palermo susurra un elefante que remite a un pasado preindustrial. Simple, incómodo y artesanal. El pariente viejo y lejano de lo que algún día será rápido y liviano, como todo lo que integramos a nuestra vida. Un animal que encierra claves de lo que fuimos y de lo que podemos ser. Los dueños del circo lo miran con desconfianza.
+** Ver wikipedia Neuroinformatics
+** Cuál es el rol de Machine Learning en todo esto? 
+** Cuando aprendía frnacés escuchando, volver a una lección me remitia automáticamente al lugar donde había escuchado esa lección por primera vez. Era automático. Buscar como se llama ese efecto. Intenar reproducir. 
+** Podemos hacer preguntas en Quora.
+** Leer wikipedia: memory y learning 
+** Construir la historia de un paciente X que haya permitido un breakthrough
+** Idea: droga que hiperestimula el aprendizaje y la memoria, la escuela al principio no desaparece si no que se va acortando
+** Aprendizaje químico vs apredizaje natural. Diferencias, económicas y sociales.
+** Efectos secundarios, individuales y sociales.
+** Alzheimer.
+** Obstáculos.
+** Identificar grupos de investigación, investigadores y principales temas candentes.
+** Dejar lo más loco para el futuro lejano.
+** Ponerse de acuerdo en la historia, cuando parar y como escribir. 
+** Nos ponemos deadline?
+** Cuáles nuevas ramas de la ciencia aparecerían? Nuevas profesiones? Desaparecerían algunas? 
