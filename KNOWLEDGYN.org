@@ -19,7 +19,12 @@
 **** qué pasaria con el tiempo cuando esto haya dejado de ser un factor determinante de poder?
 *** sin duda habría grupos en desacuerdo con el uso de KW como herramienta de poder
 - hackers
-- derechos humanos
+- derechos humanos  ¿A vos te parece (test de comentario)? 
+
+No creo que sea una buena opción esto de inseratr así, cierto? porque una vez aceptado, se borrarían todos los anteriores.
+
+No me parece mal, pero se mezcla con el texto en sí. No hay nada que lo distinga como comentario más que nos demos cuenta nomás. Fuera de eso no me parece mal, con git nada se borra, siempre queda todo en la "memoria" a través de los commits. Lo podemos ver cuando nos juntemos con las compus...
+
 - filósofos
 - sociólogos
 - estudiantes universitarios
