@@ -1,7 +1,11 @@
 #+TITLE: KNOWLEDGYN -- NOTAS VARIAS
+#+OPTIONS: num:nil
+#+AUTHOR:
+#+OPTIONS: toc:nil
 
 * TESIS
 ** De acuerdo con [[http://en.wikipedia.org/wiki/Nicholas_Negroponte][Nicholas Negroponte]] (ver [[http://www.ted.com/talks/nicholas_negroponte_a_30_year_history_of_the_future][charla TED]]) en el futuro (30 años?) vamos a ingerir conocimiento en píldoras
+
 * TEMAS
 ** aspectos socio-económicos y legales
 *** KW va a tener que tener un costo, posiblemente muy alto
@@ -111,7 +115,7 @@ No me parece mal, pero se mezcla con el texto en sí. No hay nada que lo disting
 - todo esto en la hipótesis de que el KW sea generalizado y no de elites.
   
 ** aspectos inusitados :)
-* PUNTAS - 
+* PUNTAS 
 ** [[www.scientificamerican.com/article/what-do-great-musicians-have-in-common-dna/?&WT.mc_id%3DSA_WR_20140806][What Do Great Musicians Have in Common? DNA]]
 ** Sería interesante leer World War Z, que escuché que tiene una estructura interesante
 ** explorar KW como vacuna
