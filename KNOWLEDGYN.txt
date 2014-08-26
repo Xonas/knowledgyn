@@ -5,56 +5,58 @@
 
 
 
+
 TESIS
+═════
 
 De acuerdo con [Nicholas Negroponte] (ver [charla TED]) en el futuro (30 años?) vamos a ingerir conocimiento en píldoras
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 
 
 TEMAS
-=====
+═════
 
 aspectos socio-económicos y legales
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+───────────────────────────────────
 
 KW va a tener que tener un costo, posiblemente muy alto
--------------------------------------------------------
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
 
 una posibilidad es que la controlen las grandes farmaceuticas o holdings con participación de farmaceuticas y universidades
----------------------------------------------------------------------------------------------------------------------------
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
 
 otra posibilidad que no excluye la anterior es que meta mano el estado
-----------------------------------------------------------------------
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
 
 al principio van a ser los yankees o los chinos los que tengan el breakthrough
-------------------------------------------------------------------------------
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
-* posiblemente los chinos, por cuestiones estratégicas y de escrúpulos
-
-
-* el resto de los paises van a tener que seguirlos tipo carrera armamentística
+◊ posiblemente los chinos, por cuestiones estratégicas y de escrúpulos
 
 
-* qué pasaría con los emergentes?
-
-  - India
-  - Brasil
-  - México
-  - Rusia
-  - Argentina
+◊ el resto de los paises van a tener que seguirlos tipo carrera armamentística
 
 
-* qué pasaria con el tiempo cuando esto haya dejado de ser un factor determinante de poder?
+◊ qué pasaría con los emergentes?
+
+  • India
+  • Brasil
+  • México
+  • Rusia
+  • Argentina
+
+
+◊ qué pasaria con el tiempo cuando esto haya dejado de ser un factor determinante de poder?
 
 
 sin duda habría grupos en desacuerdo con el uso de KW como herramienta de poder
--------------------------------------------------------------------------------
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
-  - hackers
-  - derechos humanos ¿A vos te parece (test de comentario)?
+  • hackers
+  • derechos humanos ¿A vos te parece (test de comentario)?
 
   No creo que sea una buena opción esto de inseratr así, cierto? porque
   una vez aceptado, se borrarían todos los anteriores.
@@ -63,139 +65,139 @@ sin duda habría grupos en desacuerdo con el uso de KW como herramienta de poder
   lo distinga como comentario más que nos demos cuenta nomás. Fuera de
   eso no me parece mal, con git nada se borra, siempre queda todo en la
   "memoria" a través de los commits. Lo podemos ver cuando nos juntemos
-  con las compus...
+  con las compus…
 
-  - filósofos
-  - sociólogos
-  - estudiantes universitarios
-  - sindicatos
-  - gente que "militó" en la década del '10 en el movimiento opencourse
+  • filósofos
+  • sociólogos
+  • estudiantes universitarios
+  • sindicatos
+  • gente que "militó" en la década del '10 en el movimiento opencourse
     ware ([OCW])
-    - gente de coursera, de stanford, del mit
-      - quienes son?
+    • gente de coursera, de stanford, del mit
+      • quienes son?
 
 
   [OCW] http://en.wikipedia.org/wiki/OpenCourseWare
 
 
-* cuál sería la posición de Stallman, de Torvalds, de Gates?
+◊ cuál sería la posición de Stallman, de Torvalds, de Gates?
 
 
-* cuál la de otros grandes académicos? empresarios? políticos?
+◊ cuál la de otros grandes académicos? empresarios? políticos?
 
 
 distintas ideologias tendrían distintas posturas
-------------------------------------------------
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
-* la izquierda querría la aplicación de KW para todo el mundo
-
-
-* la derecha le pondria precio y dejaría que la mano invisible del mercado se ocupara
+◊ la izquierda querría la aplicación de KW para todo el mundo
 
 
-* los socialistas querrían garantizarla (al menos las primeras dosis)
+◊ la derecha le pondria precio y dejaría que la mano invisible del mercado se ocupara
+
+
+◊ los socialistas querrían garantizarla (al menos las primeras dosis)
 
 
 alteraciones migratorias
-------------------------
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
-* algunos paises no tendrían esta tecnología
+◊ algunos paises no tendrían esta tecnología
 
-  + la gente se querría ir a los que la tuvieran
+  ◊ la gente se querría ir a los que la tuvieran
 
 
-* se profundizarían las tendencias migratorias actuales por razones económicas etc.
+◊ se profundizarían las tendencias migratorias actuales por razones económicas etc.
 
-  - lo gracioso sería pensar en el comienzo de esto, porque podría haber
+  • lo gracioso sería pensar en el comienzo de esto, porque podría haber
     paises del primer mundo (o ex-primer mundo? EU del sur) que no
     tengan esto al principio.
-    - españoles e italianos emigrando a China para la ingesta,
+    • españoles e italianos emigrando a China para la ingesta,
       replicando las corrientes migratorias argentinas de 150-200 años
       antes.
 
 
-* en los países nórdicos las haría el estado y las repartiría a todos los que tengan el pasaporte
+◊ en los países nórdicos las haría el estado y las repartiría a todos los que tengan el pasaporte
 
-  + habría una nueva presión migratoria para conseguir el KW
+  ◊ habría una nueva presión migratoria para conseguir el KW
 
-    - gente inmigrando
-
-
-    - fronteras cerrándose para evitar presión en las arcas del Estado
+    ◊ gente inmigrando
 
 
-    - leyes nuevas para ordenar la ingesta y garantizar el justo reparto
+    ◊ fronteras cerrándose para evitar presión en las arcas del Estado
+
+
+    ◊ leyes nuevas para ordenar la ingesta y garantizar el justo reparto
 
 
 aspectos técnicos
-~~~~~~~~~~~~~~~~~
+─────────────────
 
 Negroponte dice que ingeriríamos una píldora
---------------------------------------------
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
 
 A mí me parece muy ficción cincuentera, lo veo más como una batería de tratamientos
------------------------------------------------------------------------------------
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
-  - a lo mejor tendríamos que pensar en distintos tipos de tratamientos
+  • a lo mejor tendríamos que pensar en distintos tipos de tratamientos
     dependiendo del nivel de información que se quiere inocular
-    - aprender a leer y escribir = una inyección, un poco de fiebre,
+    • aprender a leer y escribir = una inyección, un poco de fiebre,
       riesgo casi nulo
-    - aprender matemática/lengua/historia/geografía = un día internado
+    • aprender matemática/lengua/historia/geografía = un día internado
       (para cada cosa?)
-    - recibirse de algo = tratamiento tipo quimio, de algunos meses
-      - con consecuencias similares??
-  - sería interesante que mientras más contenido uno ingiere los efectos
+    • recibirse de algo = tratamiento tipo quimio, de algunos meses
+      • con consecuencias similares??
+  • sería interesante que mientras más contenido uno ingiere los efectos
     secundarios sean más fuertes, porque habría un efecto disuasorio que
     contrarrestaría el beneficio, agregandole sal al asunto (habría
     gente que no estaría dispuesta a ir tan lejos).
 
 
 origen de la tecnología?
-------------------------
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
-* militar?
-
-
-* chinos?
+◊ militar?
 
 
-* IBM?! :p
+◊ chinos?
+
+
+◊ IBM?! :p
 
 
 aspectos científicos
---------------------
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
 
 cuál sería el timeline?
------------------------
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
-  - siempre me perturbó un poco las pelis de ciencia ficción que ponen
-    cosas extravagantes muy cerca...
-  - yo le daría 50 años para empezar a arrancar y otros 30 para
+  • siempre me perturbó un poco las pelis de ciencia ficción que ponen
+    cosas extravagantes muy cerca…
+  • yo le daría 50 años para empezar a arrancar y otros 30 para
     afianzarse
 
 
 aspectos psicológicos y morales
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+───────────────────────────────
 
 mucho tiempo libre! se acabaría la escuela, la universidad?
------------------------------------------------------------
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
 
-imposible pensar en los chicos en casa...!
-------------------------------------------
+imposible pensar en los chicos en casa…!
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
-  - como dice [Jennifer Senior] los chicos post-revolución industrial no
-    tienen valor económico... Deberían volver a tenerlo?
-  - tal vez la escuela se mantendría solo como buffer para que los
+  • como dice [Jennifer Senior] los chicos post-revolución industrial no
+    tienen valor económico… Deberían volver a tenerlo?
+  • tal vez la escuela se mantendría solo como buffer para que los
     padres puedan trabajar.
-  - tal vez los chicos tendrían otro papel, si pueden tener otras
+  • tal vez los chicos tendrían otro papel, si pueden tener otras
     herramientas gracias a KW.
-    - díficil que exista una involución en términos de trabajo infantil,
+    • díficil que exista una involución en términos de trabajo infantil,
       pero tal vez los chicos puedan tener asignadas unas tareas que
       ayuden a la sociedad pero que no se considere trabajo.
-    - una posibilidad de dudosa moralidad sería que sus juegos
+    • una posibilidad de dudosa moralidad sería que sus juegos
       contuvieran realmente un crowdsourcing de algún tipo, como un
       mechanical turk infantil, que les dé un papel que substituya el de
       ser escolares.
@@ -205,73 +207,74 @@ imposible pensar en los chicos en casa...!
 
 
 el tema del esfuerzo
---------------------
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
-* hemos discutido dos aspectos
+◊ hemos discutido dos aspectos
 
-  - el esfuerzo por conseguir el KW, ya que en principio podría costar,
+  • el esfuerzo por conseguir el KW, ya que en principio podría costar,
     al menos en algunos países
-  - el no-esfuerzo de de repente tener esa información en la capocha,
+  • el no-esfuerzo de de repente tener esa información en la capocha,
     sin haber tenido que dedicarle el tiempo pre-KW
 
 
-* pregunta: sería sostenible hacer una carrera de manera convencional (con la consecuente pérdida de tiempo).
+◊ pregunta: sería sostenible hacer una carrera de manera convencional (con la consecuente pérdida de tiempo).
 
-  - habría tal desventaja que puede que no: al recibirse uno, la gente
+  • habría tal desventaja que puede que no: al recibirse uno, la gente
     con la misma edad que hayan ingerido KW tendrían algunos años ya de
     experiencia, haciendo muy difícil la competencia.
 
-* idea que mencionamos por ahí: que estudiar de manera convencional fuera más efectivo que con KW
 
-  - una opción es que esto sea así en los primeros años/décadas de
+◊ idea que mencionamos por ahí: que estudiar de manera convencional fuera más efectivo que con KW
+
+  • una opción es que esto sea así en los primeros años/décadas de
     implantación
-  - pero una vez que la tecnología avance, uno supondría que deje de ser
+  • pero una vez que la tecnología avance, uno supondría que deje de ser
     así
 
 
 algo de transformación social?
-------------------------------
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
-  - si pensamos que los jóvenes podrían trabajar (solo a partir de los
+  • si pensamos que los jóvenes podrían trabajar (solo a partir de los
     16-18 años por cuestiones morales), habría una transformación social
     en el sentido que se incorporaría una fuerza de trabajo muy joven
     que antes no estaba disponible tan temprano.
-  - esto cambiaría (posiblemente equilibraría) las cuentas de muchos
+  • esto cambiaría (posiblemente equilibraría) las cuentas de muchos
     países, porque la gente pagaría seguro social más años.
-  - el perfil del desempleo podría cambiar bastante porque los jóvenes
+  • el perfil del desempleo podría cambiar bastante porque los jóvenes
     no tendrían que ser más la franja más susceptible al desempleo, ya
     que estarían ya formados (si tendrían menos experiencia, pero serían
     más baratos que gente más senior, con lo cual hay toda una dinámica
     que tener en cuenta).
-  - todo esto en la hipótesis de que el KW sea generalizado y no de
+  • todo esto en la hipótesis de que el KW sea generalizado y no de
     elites.
 
 
 aspectos inusitados :)
-~~~~~~~~~~~~~~~~~~~~~~
+──────────────────────
 
 
-PUNTAS -
-========
+PUNTAS
+══════
 
 What Do Great Musicians Have in Common? DNA
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+───────────────────────────────────────────
 
 
 Sería interesante leer World War Z, que escuché que tiene una estructura interesante
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+────────────────────────────────────────────────────────────────────────────────────
 
 
 explorar KW como vacuna
-~~~~~~~~~~~~~~~~~~~~~~~
+───────────────────────
 
 
 [DARPA SyNAPSE Program]
-~~~~~~~~~~~~~~~~~~~~~~~
+───────────────────────
 
 
 La poshistoria
-~~~~~~~~~~~~~~
+──────────────
 
   Al final de nuestra primera charla, Rodrigo habló de las proyecciones
   que le están volando la cabeza. La traducción en tiempo real, los
@@ -317,64 +320,64 @@ La poshistoria
 
 
 Ver wikipedia Neuroinformatics
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+──────────────────────────────
 
 
 Cuál es el rol de Machine Learning en todo esto?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+────────────────────────────────────────────────
 
 
 Cuando aprendía frnacés escuchando, volver a una lección me remitia automáticamente al lugar donde había escuchado esa lección por primera vez. Era automático. Buscar como se llama ese efecto. Intenar reproducir.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 
 
 Podemos hacer preguntas en Quora.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+─────────────────────────────────
 
 
 Leer wikipedia: memory y learning
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+─────────────────────────────────
 
 
 Construir la historia de un paciente X que haya permitido un breakthrough
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+─────────────────────────────────────────────────────────────────────────
 
 
 Idea: droga que hiperestimula el aprendizaje y la memoria, la escuela al principio no desaparece si no que se va acortando
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 
 
 Aprendizaje químico vs apredizaje natural. Diferencias, económicas y sociales.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+──────────────────────────────────────────────────────────────────────────────
 
 
 Efectos secundarios, individuales y sociales.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+─────────────────────────────────────────────
 
 
 Alzheimer.
-~~~~~~~~~~
+──────────
 
 
 Obstáculos.
-~~~~~~~~~~~
+───────────
 
 
 Identificar grupos de investigación, investigadores y principales temas candentes.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+──────────────────────────────────────────────────────────────────────────────────
 
 
 Dejar lo más loco para el futuro lejano.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+────────────────────────────────────────
 
 
 Ponerse de acuerdo en la historia, cuando parar y como escribir.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+────────────────────────────────────────────────────────────────
 
 
 Nos ponemos deadline?
-~~~~~~~~~~~~~~~~~~~~~
+─────────────────────
 
 
 Cuáles nuevas ramas de la ciencia aparecerían? Nuevas profesiones? Desaparecerían algunas?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+──────────────────────────────────────────────────────────────────────────────────────────
