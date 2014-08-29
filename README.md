@@ -10,6 +10,5 @@ Knowledgyn
 	*Cada vez que quiero agregar algo genero una nueva file. Así vamos a terminar con muchas files desordenadas. 
 	Pero si ponemos todo en un solo archivo, perdemos la posibilidad de visualizar las cosas individuales, i.e. se perderá
 	en la longitud del texto. IDEAS?
-	**Creo que el tema de los folders soluciona esto. Será cuestión de ordenar todo en respectivos folders** 
-	
+	Creo que el tema de los folders soluciona esto. Será cuestión de ordenar todo en respectivos folders.
 	
